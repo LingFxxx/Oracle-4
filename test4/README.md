@@ -1,7 +1,7 @@
 # 实验4：对象管理
 - ## *查询某个员工的信息*: 
 ```aidl
-select * from employees where employee_id=1;
+select * from employees where employee_id=111;
 ```  
 ![](employee.png)  
 - ## **递归查询某个员工及其所有下属，子下属员工**  
